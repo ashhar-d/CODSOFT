@@ -1,2 +1,2 @@
 # CODSOFT
-This repository contains tasks completed during my internship at CodSoft.
+This repository contains data science tasks completed during my internship at CodSoft.
